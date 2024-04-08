@@ -28,8 +28,8 @@ cd tauri-macos-spotlight-example
 3. Run the demo
 
 ```
-pnpm install
-pnpm tauri dev
+yarn install
+yarn tauri dev
 ```
 
 4. Press <kbd>Cmd</kbd><kbd>k</kbd> to toggle the spotlight window
